@@ -7,7 +7,6 @@ char lenta[3][3] = {{'1','2','3'},{'4','5','6'},{'7','8','9'}};
 int pasirinkimas;
 int e,s;
 char eile = 'X';
-char rerun;
 bool lygiosios = false;
 
 
